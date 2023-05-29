@@ -6,10 +6,8 @@ namespace _29maj2023
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Week nr 2 lesson nr 17")
+            Console.WriteLine("Week nr 2 lesson nr 17");
             Console.WriteLine("Visibility Ranges");
-
-            public int = D;
         }
         
     }

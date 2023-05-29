@@ -6,15 +6,15 @@
         {
             Console.WriteLine("Visibility Internal Protected Private");
 
-            internal int A;
+            internal int a;
 
-            protected int B;
+            protected int b;
 
-            private int C;
+            private int c;
 
             public void Method()
         {
-            C = 8;
+            c = 8;
         }
 
         }
